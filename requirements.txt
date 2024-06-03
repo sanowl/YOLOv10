@@ -1,0 +1,9 @@
+
+### requirements.txt
+
+torch
+torchvision
+numpy
+opencv-python
+tqdm
+pyyaml
